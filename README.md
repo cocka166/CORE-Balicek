@@ -1,16 +1,24 @@
-# CORE Balíček – Asset & Risk Register (Prezentační PDF náhledy)
+# CORE Balíček – Asset & Risk Register (Prezentační náhledy)
 
-Tento balíček obsahuje **prezentační PDF náhledy šablon pro řízení kybernetických rizik** a ISMS procesů.  
-Slouží k demonstraci struktury a funkčnosti balíčku – neobsahuje citlivá data ani plnou databázi aktiv a rizik.
+Tento repozitář obsahuje anonymizované náhledy **Asset a Risk Registeru** pro demonstraci struktury a principů řízení kybernetických rizik.  
+**Neobsahuje citlivá data ani plnou databázi aktiv a rizik.**
 
-## Obsah balíčku
-- **Asset Register (PDF náhled)** – ukázka evidence informačních aktiv (hardware, software, data, OT/IoT zařízení)  
-- **Risk Register (PDF náhled)** – ukázka identifikace a hodnocení rizik, dopad, pravděpodobnost, stávající a doporučená opatření, priorita  
+## PNG náhledy
 
-## Hodnota pro uživatele
-- Slouží jako **vizuální ukázka** pro malé a střední podniky (SME), IT projekty  
-- Umožňuje pochopit strukturu a principy Asset & Risk Registeru  
-- Pomáhá při interní prezentaci ISMS procesů a auditech  
-- PDF jsou anonymizované a připravené k přizpůsobení konkrétním potřebám  
+### Asset Register
+- ![Asset Register](./preview/asset_register.png) – hlavní tabulka aktiv  
+- ![Číselníky](./preview/asset_ciselniky.png) – přehled používaných referenčních hodnot  
 
+### Risk Register
+- ![Risk Register](./preview/risk_register.png) – hlavní tabulka rizik  
 
+## PDF náhledy
+
+### Asset Register
+- [Instrukce k Asset Registeru](./pdf/asset_instrukce.pdf) – jak používat Asset Register  
+- [Legenda Asset Registeru](./pdf/asset_legenda.pdf) – vysvětlení sloupců, barev a ikon  
+
+### Risk Register
+- [Instrukce k Risk Registeru](./pdf/risk_instrukce.pdf) – jak používat Risk Register  
+
+> PDF a PNG slouží pouze k vizuální demonstraci struktury balíčku a principů řízení aktiv a rizik.
