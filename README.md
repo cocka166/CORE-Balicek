@@ -10,7 +10,7 @@ Dopad (Impact) – jak vážný by byl dopad incidentu
 Pravděpodobnost (Likelihood) – jak často může riziko nastat
 
 ## Princip výpočtu:
-Úroveň rizika = INDEX(_RiskMatrix; dopad; pravděpodobnost)
+```Úroveň rizika = INDEX(_RiskMatrix; dopad; pravděpodobnost)```
 (RiskMatrix je skrytá tabulka v souboru, která definuje matici dopad × pravděpodobnost → úroveň rizika)
 
 ## Priorita rizika
