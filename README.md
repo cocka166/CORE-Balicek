@@ -1,5 +1,14 @@
 # CORE Balíček – Asset & Risk Register (Prezentační náhledy)
 
+Tento repozitář obsahuje anonymizované náhledy Asset a Risk Registeru pro demonstraci struktury a principů řízení kybernetických rizik.
+**Neobsahuje citlivá data ani plnou databázi aktiv a rizik.**
+
+## CORE verze slouží k:
+vizuální ukázce propojení aktiv a rizik,
+demonstraci automatických výpočtů úrovně a priority rizika,
+seznámení s číselníky a barevným značením,
+prezentaci základní GRC praxe pro malé a střední organizace.
+
 ## Jak funguje propojení Asset → Risk
 Asset Register eviduje všechna IT / OT / IoT aktiva: servery, PLC, senzory, aplikace atd.
 Risk Register eviduje rizika spojená s jednotlivými aktivy. Každé riziko je přiřazeno k Asset ID, aby bylo jasné, které aktivum je ohroženo.
