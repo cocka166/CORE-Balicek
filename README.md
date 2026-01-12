@@ -10,7 +10,7 @@ Tento repozitář obsahuje anonymizované náhledy **Asset a Risk Registeru** pr
 - ![Číselníky](./preview/asset_ciselniky.png) – přehled používaných referenčních hodnot  
 
 ### Risk Register
-- ![Risk Register](./preview/risk_register.png) – hlavní tabulka rizik  
+- ![Risk Register](./preview/risk_register1.png) – hlavní tabulka rizik  
 
 ## PDF náhledy
 
