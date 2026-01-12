@@ -1,31 +1,31 @@
 # CORE Balíček – Asset & Risk Register (Prezentační náhledy)
 
-Jak funguje propojení Asset → Risk
+## Jak funguje propojení Asset → Risk
 
 Asset Register eviduje všechna IT / OT / IoT aktiva: servery, PLC, senzory, aplikace atd.
 
 Risk Register eviduje rizika spojená s jednotlivými aktivy. Každé riziko je přiřazeno k Asset ID, aby bylo jasné, které aktivum je ohroženo.
 
-Úroveň rizika
+## Úroveň rizika
 
 Úroveň rizika se počítá automaticky na základě:
 
-Dopad (Impact) – jak vážný by byl dopad incidentu
+## Dopad (Impact) – jak vážný by byl dopad incidentu
 
-Pravděpodobnost (Likelihood) – jak často může riziko nastat
+## Pravděpodobnost (Likelihood) – jak často může riziko nastat
 
-Princip výpočtu:
+## Princip výpočtu:
 
 Úroveň rizika = INDEX(_RiskMatrix; dopad; pravděpodobnost)
 
 
 (RiskMatrix je skrytá tabulka v souboru, která definuje matici dopad × pravděpodobnost → úroveň rizika)
 
-Priorita rizika
+## Priorita rizika
 
 Priorita se vypočítá kombinací úrovně rizika a kritičnosti aktiva (CIA – Dostupnost, Integrita, Důvěrnost).
 
-Konzistence dat
+## Konzistence dat
 
 Dropdown seznamy pro Asset ID a číselníky zajišťují konzistenci a minimalizují chyby při zadávání.
 
