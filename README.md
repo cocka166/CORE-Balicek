@@ -19,6 +19,8 @@ Tento repozitář obsahuje anonymizované náhledy **Asset a Risk Registeru** pr
 - [Legenda Asset Registeru](./pdf/asset_legenda.pdf) – vysvětlení sloupců, barev a ikon  
 
 ### Risk Register
-- [Instrukce k Risk Registeru](./pdf/risk_instrukce.pdf) – jak používat Risk Register  
+- [Instrukce k Risk Registeru](./pdf/risk_instrukce.pdf) – jak používat Risk Register
+- [Legenda Risk Registeru](./pdf/risk_legenda.pdf) – vysvětlení sloupců, barev a ikon  
+
 
 > PDF a PNG slouží pouze k vizuální demonstraci struktury balíčku a principů řízení aktiv a rizik.
