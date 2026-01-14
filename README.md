@@ -51,14 +51,14 @@ Dropdown seznamy pro Asset ID a číselníky zajišťují konzistenci a minimali
 
 ## Výhody CORE verze
 
-Přehledná, ready-to-use struktura pro demo nebo portfolio
-Vizualizace úrovně a priority rizik pro rychlou orientaci
-Ukázka propojení aktiv s riziky, vhodná pro pohovor nebo interní prezentaci
-Nepotřebuje složité propojení přes Power Query či externí systémy
+Přehledná, ready-to-use struktura pro demo nebo portfolio.
+Vizualizace úrovně a priority rizik pro rychlou orientaci.
+Ukázka propojení aktiv s riziky, vhodná pro pohovor nebo interní prezentaci.
+Nepotřebuje složité propojení přes Power Query či externí systémy.
 
 ## Doporučení pro CORE verzi
-PDF a PNG náhledy neobsahují citlivé informace a slouží jen k vizuální orientaci
-CORE verze je určena pro prezentaci struktury a principů, nikoli pro plnou produkční evidenci
+PDF a PNG náhledy neobsahují citlivé informace a slouží jen k vizuální orientaci.
+CORE verze je určena pro prezentaci struktury a principů, nikoli pro plnou produkční evidenci.
 Pro reálné použití doporučeno:
 pravidelná aktualizace Asset a Risk Registeru
 používání číselníků a dropdown seznamů
